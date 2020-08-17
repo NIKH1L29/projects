@@ -1,0 +1,62 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head><META http-equiv="Content-Type" content="text/html; charset=utf-8"></head><body>
+
+
+    
+        
+        
+
+        
+    
+    <div>
+        <div> 
+            <p> Lifestyle Store</p>
+            
+                
+                <li><a href="#0.1_">Login</a></li>
+                <li><a href="#0.1_">Sign Up</a></li>
+             
+        </div>
+        <div>
+         <div>
+                <br>
+                <center>
+               <div>
+                    <p style="font-family:&#39;Roboto&#39;,sans-serif;font-size:34px;margin:opx">We sell lifestyle.</p>
+                    <p style="margin:0px;font-size:15px;padding:-4px">Flat 40% OFF on premium brands<br><br>
+                
+                 <input type="button" value="Shop Now">
+               </p></div>
+                    </center>
+         </div>
+            
+            
+        
+            
+            <div>
+                <img src="http://img1/camera.jpg" alt="camera">
+                <h2>Cameras</h2>
+                Choose among the best available in the world.
+                
+            </div>
+            <div>
+                <img src="http://img1/watch.jpg" alt="watch">
+                <h2>
+                    Watches
+                </h2>
+                Orginal watches from the best brands.
+        </div>
+            <div>
+                <img src="http://img1/shirt.jpg" alt="shirts">
+                <h2>
+                    Shirts
+                </h2>
+                Our exquisite collection of shirts.
+            </div>
+            
+        </div>
+        <div>
+            Copyright@Lifestyle Store.All rights reserved | Contact Us:+91 90000 00000
+        </div>
+    </div>
+
+</body></html>
